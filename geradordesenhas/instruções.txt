@@ -1,0 +1,3 @@
+antes de usar o script
+
+npm i
